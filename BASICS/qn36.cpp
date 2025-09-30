@@ -27,5 +27,6 @@ int main(){
     }else{
          ans = temp1.substr(sum, N-sum) + temp1.substr(0, sum);
     }
+    
     cout<<ans;
 }
