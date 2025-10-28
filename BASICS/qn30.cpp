@@ -12,4 +12,3 @@ int main(){
     ans = str.substr(K,N-K) + str.substr(0,K);
     cout<<ans;
 }
-
